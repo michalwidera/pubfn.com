@@ -1,15 +1,15 @@
 ---
 layout: splash
 permalink: //
-title: "Main page"
+title: "Pub fn michal_widera()"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/logan-weaver-unsplash.jpg
+  overlay_image: /assets/images/IMG_0750.JPG
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [Photo by Logan Weaver on Unsplash](https://unsplash.com)"
+  caption: "Photo credit: Tomasz Widera"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in nibh eget massa ultricies commodo. Nunc vel pulvinar lectus."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
