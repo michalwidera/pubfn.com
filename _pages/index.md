@@ -1,11 +1,11 @@
 ---
 layout: splash
 permalink: //
-title: "Pub fn michal_widera()"
+title: "<span style=\"color: #000000;\">Pub</span> <span style=\"color: #9999ff;\">fn</span> michal_widera() "
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/IMG_0750.JPG
+  overlay_image: /assets/images/IMG_0748.JPG
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
