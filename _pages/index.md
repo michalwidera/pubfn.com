@@ -5,7 +5,7 @@ title: "<span style=\"color: #000000;\">Pub</span> <span style=\"color: #9999ff;
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/IMG_0748.JPG
+  overlay_image: /assets/images/test-4.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
