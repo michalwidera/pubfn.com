@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About
+title: About correct and effective code
 permalink: /about
 ---
-
-<header class="masthead text-center">
-  <div class="masthead-content">
-    <div class="container">
-      <h2 class="masthead-subheading">About correct and effective code</h2>
-    </div>
-  </div>
-</header>
-
+## This is ..
 This is about page.
 
