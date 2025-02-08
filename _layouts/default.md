@@ -9,6 +9,9 @@
 
 <body>
 
+  {% include navigation.md %}
+  {% include header.md %}
+  
   <header class="masthead text-center">
     <div class="masthead-content">
       <div class="container">
@@ -16,9 +19,6 @@
       </div>
     </div>
   </header>
-
-  {% include navigation.md %}
-  {% include header.md %}
 
   <section>
     <div class="container">
