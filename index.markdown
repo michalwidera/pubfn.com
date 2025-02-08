@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About correct and effective code
+title: Correct and effective code
 permalink: /
 ---
 
